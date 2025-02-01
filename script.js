@@ -5,7 +5,6 @@ let gender = "Male";
 let isStudent = true;
 console.log(`Name: ${name}, Age: ${age}, Gender: ${gender}, Student: ${isStudent}`);
 
-
 for (let i = 1; i <= 10; i++) {
  console.log(i);
 }
